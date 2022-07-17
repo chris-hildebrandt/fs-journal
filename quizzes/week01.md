@@ -15,13 +15,13 @@
 **3.** What is the `\<html>\</html>` tag in a document?
 <!-- enter you answer in the space below -->
 ```
-It tells the browser the language of the document 
+The tag shows up at the beginning and end of an HTML document (know as the root element). it indicates that the webpage is written in HTML5, and all other page markup comes in between these beginning and ending tags
 ```
 
 **4.** What does `HTML` stand for?
 <!-- enter you answer in the space below -->
 ```
-hyper text market language.
+hyper text markup language.
 ```
 
 **5.** What Does `CSS` stand for?
@@ -39,13 +39,19 @@ css
 ```
 <!-- enter you answer in the space below -->
 ```
-The class or the target element identifies the element that will be affected, the text before the colon describes the key or attribute that is affected by the rule, and the value following the colon sets the rule to the desired value, in the example an h1 div with the "main-title" class would have the attribute "color" in this case text I believe, set to the value of "rgba(255, 210, 33, .75)
+The SELECTOR identifies the target element that will be affected.
+
+the PROPERTY is the text before the colon, and describes the key or attribute that is affected by the rule.
+
+the VALUE following the colon sets the rule to the desired value.
+ 
+In the example the SELECTOR "h1.main-title" targets any h1 div with the "main-title" class, the PROPERTY being modified in this case is "color", and the VALUE is being set to "rgba(255, 210, 33, .75)
 ```
 
 **7.** What property would you change if you wanted to make a font **Bold**?
 <!-- enter you answer in the space below -->
 ```
-font or text weight. you could do this in many a few different ways you could set of the text you wanted bolded with <b> tags in line, or use the built in "tw-bold" utility class with bootstrap
+font-weight. You could also do this with <b> tags in line, or use the built in "tw-bold" utility class with bootstrap
 ```
 
 **8.** In what tag does the majority of your code belong?
