@@ -15,7 +15,8 @@
 **3.** What is the `\<html>\</html>` tag in a document?
 <!-- enter you answer in the space below -->
 ```
-The tag shows up at the beginning and end of an HTML document (know as the root element). it indicates that the webpage is written in HTML5, and all other page markup comes in between these beginning and ending tags
+The tag at the beginning and end of an HTML document
+it indicates the language of the document.
 ```
 
 **4.** What does `HTML` stand for?
@@ -27,7 +28,7 @@ hyper text markup language.
 **5.** What Does `CSS` stand for?
 <!-- enter you answer in the space below -->
 ```
-Cascading Styles Sheet
+Cascading Style Sheets
 ```
 
 **6.** What are the three components that makeup a `CSS` rule? <br> Example:
