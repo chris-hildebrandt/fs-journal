@@ -22,7 +22,7 @@ let fruit = ['apple', 'banana', 'pineapple',  'orange', 'strawberry']
 What index is the pineapple's current position? How do you know?
 <!-- enter you answer in the space below -->
 ```
-
+the current position is 2 because arrays begin at 0.
 ```
 **5.** With these two objects: 
 ```js
@@ -47,7 +47,7 @@ for ( let i = 0; i < arr.length; _______ ) {
 ```
 <!-- enter you answer in the space below -->
 ```
-
+the ++ in "i++" is an operator, 
 ```
 **8.** What does the `DOM` acronym stand for? Which file is first accessed to render the `DOM`?
 <!-- enter you answer in the space below -->
@@ -68,5 +68,16 @@ for ( let i = 0; i < arr.length; _______ ) {
 **11.** What is the difference between a `primitive` value and a `reference` value?
 <!-- enter you answer in the space below -->
 ```
+primitive values are "simple" in that they do not have properties, just values, they include:
+"strings"
+numbers
+booleans
+undefined
+null
 
+objects and arrays are collections of data
+
+arrays store information by index or position and the data is stored in order
+
+objects store information by key/value pairs and information is unordered
 ```
