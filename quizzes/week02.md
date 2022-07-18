@@ -52,7 +52,7 @@ the ++ in "i++" is an operator,
 **8.** What does the `DOM` acronym stand for? Which file is first accessed to render the `DOM`?
 <!-- enter you answer in the space below -->
 ```
-
+Document Object Model, and the first file to be accessed is the index.html
 ```
 
 **9.** What are the `9` ECMAScript types as defined by MDN?
