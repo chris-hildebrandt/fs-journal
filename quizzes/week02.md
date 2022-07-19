@@ -8,12 +8,20 @@
 **2.** What is the definition of a function?
 <!-- enter you answer in the space below -->
 ```
+A JavaScript function is a block of code designed to perform a particular task.
 
+A JavaScript function is executed when "something" invokes it (calls it).
 ```
 **3.** What are the `SOLID` principles?
 <!-- enter you answer in the space below -->
 ```
+SOLID stands for:
 
+S - Single-responsiblity Principle
+O - Open-closed Principle
+L - Liskov Substitution Principle
+I - Interface Segregation Principle
+D - Dependency Inversion Principle
 ```
 **4.** Given this array: 
 ```js
