@@ -8,9 +8,12 @@
 **2.** What is the definition of a function?
 <!-- enter you answer in the space below -->
 ```
-A JavaScript function is a block of code designed to perform a particular task.
-
-A JavaScript function is executed when "something" invokes it (calls it).
+functions are objects
+A JavaScript function is a block of code (or subprogram) designed to perform a particular task which is executed when "something" calls (invokes) it.
+Functions are usually defined by declaring "function" followed by the functionName and then the (parameters), finally followed by {the code that actually runs} when the function is invoked. you can use the parameters to pass in information and the function always returns a value, which is undefined if unspecified within the function.
+eg. function myFunction(parameter){
+  do something awesome
+}
 ```
 **3.** What are the `SOLID` principles?
 <!-- enter you answer in the space below -->
