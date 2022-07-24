@@ -78,7 +78,7 @@ for ( let i = 0; i < arr.length; _______ ) {
 ```
 <!-- enter you answer in the space below -->
 ```
-the blank space should contain the "iterator" or "iteration" and should be i++ to increase by one each iteration.
+the blank space should contain the "iterator" or "iteration" and should be i++ to increase by one each iteration. although  i += 1 would work as well.
 ```
 **8.** What does the `DOM` acronym stand for? Which file is first accessed to render the `DOM`?
 <!-- enter you answer in the space below -->
@@ -107,7 +107,7 @@ booleans
 undefined
 null
 
-objects and arrays are collections of data
+objects and arrays are reference types in that they are collections of data
 
 arrays store information by index or position and the data is stored in order
 
