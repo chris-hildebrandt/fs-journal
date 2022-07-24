@@ -89,7 +89,18 @@ Document Object Model, and the first file to be accessed is the index.html
 **9.** What are the `9` ECMAScript types as defined by MDN?
 <!-- enter you answer in the space below -->
 ```
-
+I think this is asking what the 9 ECMAScript DATA types are since MDN seems to only list the current version of ECMAScript rather than listing nine. There is a page on Data types which indeed has 9 items, they are listed as follows:
+Primitive values:
+Boolean type
+Null type
+Undefined type
+Number type
+BigInt type
+String type
+Symbol type
+Collections of properties:
+Objects
+Arrays
 ```
 **10.** When it comes to functions or methods, what is the difference between a `parameter` and an `argument`?
 <!-- enter you answer in the space below -->
