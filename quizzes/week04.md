@@ -3,12 +3,12 @@
 **1.** What is the difference between `asynchronous` code and `synchronous` code?
 <!-- enter you answer in the space below -->
 ```
-
+synchronous means the code all runs together at the time it is read, async on the other hand, is run at a different time.
 ```
 **2.** What is an event listener?
 <!-- enter you answer in the space below -->
 ```
-
+It is like a setTimeout in that it runs the functions given to it as parameters but instead of running at regular intervals a listener watches for changes to a specified file or object and runs the code when the object is changed. I imagine that there are other kinds of listeners that are more 
 ```
 **3.** What does the `O` represent in the `SOLID` principles?
 <!-- enter you answer in the space below -->
