@@ -39,7 +39,7 @@ Application Programming Interface
 **8.** In the `MVC` design pattern, who is responsible for making calls to `APIs`?
 <!-- enter you answer in the space below -->
 ```
-
+the service never anything else.
 ```
 **9.** What is the purpose of encapsulation in programming?
 <!-- enter you answer in the space below -->
@@ -54,5 +54,5 @@ To prevent timing dependencies and resource conflicts caused by trying to share 
 **11.** What is a 500 error?
 <!-- enter you answer in the space below -->
 ```
-
+internal service error
 ```
