@@ -49,7 +49,7 @@ To prevent timing dependencies and resource conflicts caused by trying to share 
 **10.** What is `HTTP` response code for a successful request?
 <!-- enter you answer in the space below -->
 ```
-
+200
 ```
 **11.** What is a 500 error?
 <!-- enter you answer in the space below -->
