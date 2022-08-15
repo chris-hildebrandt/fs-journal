@@ -8,7 +8,7 @@ Create, Read, Update, and Delete
 **2.** Each action that `CRUD` represents maps to an HTTP request. What HTTP request does each `CRUD` action correspond to?
 <!-- enter you answer in the space below -->
 ```
-read = get(), create = push(), update = post(), delete = delete() 
+read = get(), create = post(), update = put(), delete = delete() 
 ```
 **3.** What does `ORM` stand for? Which `ORM` do we use when interacting with MongoDB
 <!-- enter you answer in the space below -->
@@ -33,7 +33,7 @@ let Schema = ________.Schema;
 ```
 <!-- enter you answer in the space below -->
 ```
-
+mongoose (*3)
 ```
 **7.** What is middleware?
 <!-- enter you answer in the space below -->
