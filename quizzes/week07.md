@@ -76,10 +76,10 @@ v-if, v-else, v-else-if, v-on, v-for, v-show, etc. you can also do style binding
 **8.** What is the purpose of the `key` attribute when using `v-for` on an element?
 <!-- enter you answer in the space below -->
 ```
-
+it provides a target for the iteration to differentiate the individual pieces of data. we use it to provide a unique piece of information like the index or an id, from the reading today it looks like the key can also be used to provide some degree of filtration and sorting during the v-for process.
 ```
 **9.** What is the `<slot>` element and what is it used for?
 <!-- enter you answer in the space below -->
 ```
-
+it is like a prop for the html elements, you can create specific components or elements such as forms or buttons, and have them inserted onto a parent elelment at the slot divs.
 ```
