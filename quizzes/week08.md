@@ -33,12 +33,12 @@ continuous integration is preferrable in my opinion it should be set to auto-upd
 **7.** Why is branching important to version control?
 <!-- enter you answer in the space below -->
 ```
-
+branching is important because it allows manipulation of code or creation of new features which can be very enmeshed with the rest of the project, without risking stability in the deployed or working app.
 ```
 **8.** When should code review happen?
 <!-- enter you answer in the space below -->
 ```
-
+Code reviews should happen after automated checks (tests, style, other CI) have completed successfully, but before the code merges to the repository's mainline branch.
 ```
 **9.** What is the term used to define combining two branches?
 <!-- enter you answer in the space below -->
