@@ -13,7 +13,7 @@ The package.json file defines the dependencies that should be installed with you
 **3.** What command will ensure that your Vue code is compiled properly for deployment?
 <!-- enter you answer in the space below -->
 ```
-npm i
+run build
 ```
 **4.** _______ are used to provide your application with specific data based on it's environment. For example: connections strings, private keys or port. Fill in the blank.
 <!-- enter you answer in the space below -->
@@ -23,12 +23,12 @@ env.js and .env
 **5.** What are the two ways to view the logs from your Heroku app.
 <!-- enter you answer in the space below -->
 ```
-
+heroku website itself has a log history, and you can look it up in the cli heroku/logs or something like that 
 ```
 **6.** How do you update an app already deployed on Heroku?
 <!-- enter you answer in the space below -->
 ```
-
+continuous integration is preferrable in my opinion it should be set to auto-update everytime you push to github
 ```
 **7.** Why is branching important to version control?
 <!-- enter you answer in the space below -->
