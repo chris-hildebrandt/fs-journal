@@ -13,3 +13,4 @@ rightclick in the controller folder to make a new apicontroller
 cannot implicitly convert blah blah blah because ok is an actionresult so you have to include ActionResult<Cat>
 start with the model, then make a controller, then the service
 rightclick the respositories and click new class
+we have to register repos and services in the startup. the repo has to be listed before the service. addtransient
