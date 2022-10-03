@@ -8,3 +8,5 @@
 final exam notes:
 
 work across the fullstack from the beginning, as soon as you can create and get keeps you can build most of the front end
+
+taking notes on devops lecture by ryan coates
