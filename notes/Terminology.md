@@ -1,5 +1,5 @@
 # Terminology
-CDN - content delivery network
+CDN - content delivery network also called a content distribution network, is a group of geographically distributed and interconnected servers. They provide cached internet content from a network location closest to a user to speed up its delivery.
 
 CSS - cascading style sheets
 
